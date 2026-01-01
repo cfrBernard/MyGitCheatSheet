@@ -5,7 +5,7 @@ I created this Git cheat sheet because I needed a reference that includes not on
 [**Download the latest PDF here**](./My%20Git%20Commands.pdf)
 
 ![Version](https://img.shields.io/badge/version-v1.0.0-blue)
-[![License](https://img.shields.io/github/license/cfrBernard/MyGitCheatSheet)](./LICENSE.md)
+![License](https://img.shields.io/badge/License-CC0-green)
 
 > It's a compact, printable PDF designed for quick access while working on multiple projects. [Based on this](https://doabledanny.gumroad.com/l/git-commands-cheat-sheet-pdf)
 
@@ -17,4 +17,4 @@ I created this Git cheat sheet because I needed a reference that includes not on
 
 --- 
 
-> This project is licensed under the MIT License. See the [LICENSE](./LICENSE.md) file for details.
+> This project is licensed under the CC0 License. See the [LICENSE](./LICENSE.md) file for details.
